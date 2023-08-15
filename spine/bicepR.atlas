@@ -1,0 +1,20 @@
+
+bicepR.png
+size: 116,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bicep
+  rotate: false
+  xy: 59, 2
+  size: 55, 94
+  orig: 64, 96
+  offset: 3, 1
+  index: -1
+bicep2
+  rotate: false
+  xy: 2, 2
+  size: 55, 94
+  orig: 64, 96
+  offset: 3, 1
+  index: -1

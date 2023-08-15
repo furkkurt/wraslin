@@ -1,0 +1,20 @@
+
+thighR.png
+size: 136,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thigh
+  rotate: false
+  xy: 69, 2
+  size: 65, 121
+  orig: 65, 121
+  offset: 0, 0
+  index: -1
+thigh2
+  rotate: false
+  xy: 2, 2
+  size: 65, 121
+  orig: 65, 121
+  offset: 0, 0
+  index: -1

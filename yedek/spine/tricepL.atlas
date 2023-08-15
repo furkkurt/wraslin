@@ -1,0 +1,13 @@
+
+tricepL.png
+size: 59,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand
+  rotate: false
+  xy: 2, 2
+  size: 55, 134
+  orig: 64, 144
+  offset: 6, 4
+  index: -1

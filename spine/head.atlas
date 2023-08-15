@@ -1,0 +1,27 @@
+
+head.png
+size: 1433,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 479, 2
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+headAJ
+  rotate: false
+  xy: 956, 2
+  size: 154, 142
+  orig: 160, 160
+  offset: 1, 13
+  index: -1
+headDAG
+  rotate: false
+  xy: 2, 2
+  size: 475, 594
+  orig: 500, 800
+  offset: 20, 104
+  index: -1

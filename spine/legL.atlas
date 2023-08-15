@@ -1,0 +1,20 @@
+
+legL.png
+size: 134,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg
+  rotate: false
+  xy: 68, 2
+  size: 64, 95
+  orig: 80, 96
+  offset: 7, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 2, 2
+  size: 64, 95
+  orig: 80, 96
+  offset: 7, 0
+  index: -1
